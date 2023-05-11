@@ -1,0 +1,15 @@
+com\product\newtest\javaalex\domain\model\ProductsPriceLast.class
+com\product\newtest\javaalex\domain\model\ProductsPriceLastResponse$ProductsPriceLastResponseBuilder.class
+com\product\newtest\javaalex\service\PriceServiceImpl.class
+com\product\newtest\javaalex\ports\PriceRepository.class
+com\product\newtest\javaalex\adapter\impl\ProductControllerImpl.class
+com\product\newtest\javaalex\adapter\ProductController.class
+com\product\newtest\javaalex\ApplicationJavaAlex.class
+com\product\newtest\javaalex\ports\PriceService.class
+com\product\newtest\javaalex\adapter\ControllerAPIPaths.class
+com\product\newtest\javaalex\domain\Brand.class
+com\product\newtest\javaalex\domain\Brand$BrandBuilder.class
+com\product\newtest\javaalex\domain\model\ProductsPriceLastResponse.class
+com\product\newtest\javaalex\domain\Price$PriceBuilder.class
+com\product\newtest\javaalex\domain\Price.class
+com\product\newtest\javaalex\domain\model\ProductsPriceLast$ProductsPriceLastBuilder.class

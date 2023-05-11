@@ -1,0 +1,8 @@
+com\product\newtest\javaalex\domain\PriceTest.class
+com\product\newtest\javaalex\domain\model\ProductsPriceLastTest.class
+com\product\newtest\javaalex\adapter\ControllerAPIPathsTest.class
+com\product\newtest\javaalex\service\PriceServiceImplTest.class
+com\product\newtest\javaalex\domain\BrandTest.class
+com\product\newtest\javaalex\adapter\ProductControllerImplTest.class
+com\product\newtest\javaalex\domain\model\ProductsPriceLastResponseTest.class
+com\product\newtest\javaalex\GeneratorProductsPrice.class

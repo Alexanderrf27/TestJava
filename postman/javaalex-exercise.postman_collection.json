@@ -1,0 +1,41 @@
+{
+	"info": {
+		"_postman_id": "82a88b67-12e0-4686-9da6-e867fec6613a",
+		"name": "javaalex-exercise",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "5933729",
+		"_collection_link": "https://winter-eclipse-2684.postman.co/workspace/Team-Workspace~bf3b094d-277f-493a-8d41-f14422a00ad0/collection/5933729-82a88b67-12e0-4686-9da6-e867fec6613a?action=share&creator=5933729&source=collection_link"
+	},
+	"item": [
+		{
+			"name": "http://localhost:8080/products/v1/priceLast",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"brandId\":1, \n    \"productId\":35455, \n    \"appDate\":\"2020-06-14T10:00\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/products/v1/priceLast",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"products",
+						"v1",
+						"priceLast"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
